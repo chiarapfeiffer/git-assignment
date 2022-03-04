@@ -5,4 +5,4 @@ To run this analysis use the following command:
 ```
 Rscript src/make-plot.R
 ```
-The raw data and a description of the data can be found in `data` and the results and intermediate 'clean' data are in `out`. 
+The raw data, a description of the data and intermediate 'clean' data can be found in `data`. The results of the analysis are in `out`. 
